@@ -324,3 +324,13 @@
 - [x] `link relations`
 - [ ] `parsing`
 - [ ] `browsing`
+
+#### Q53. Which URL pattern is recommended when working with one resource and a collection of resources?
+
+- [ ] `/company/{id} and /company`
+- [ ] `/company/{id} and /companies`
+- [ ] `/companies/{id} and /companies`
+- [ ] `/companies/{id} and /company`
+
+
+
